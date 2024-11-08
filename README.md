@@ -2,5 +2,11 @@ Sign language recognition and translation systems play a crucial role in facilit
 
 ![image](https://github.com/user-attachments/assets/6e80bab3-e7bf-4e00-8a0f-4cd764d38734)
 
- OUTPUT:
+ 
 ![image](https://github.com/user-attachments/assets/521f9a7d-e829-49f0-8425-18527ce439b0)
+
+![image](https://github.com/user-attachments/assets/8338646c-9deb-4d90-b30a-5a2e38d1f3a6)
+
+![image](https://github.com/user-attachments/assets/11a59da8-aaab-4e1c-9cec-d2779820cc99)
+
+![image](https://github.com/user-attachments/assets/71e53d70-7b02-4599-b367-40c1a0fe8fd1)
